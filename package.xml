@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package>
+    <name>fixed_shipping_method</name>
+    <version>1.0.0.0</version>
+    <stability>stable</stability>
+    <license uri="http://opensource.org/licenses/osl-3.0.php">Open Software License (OSL)</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Add simple fixed price shipping methods. </summary>
+    <description>fixed shipping method extension allows you to add fixed price shipping methods to &#xD;
+Your Magento shopping cart.&#xD;
+</description>
+    <notes>First release</notes>
+    <authors><author><name>Infinitely</name><user>Mitesh</user><email>info@infintelyinfinite.com</email></author></authors>
+    <date>2014-04-19</date>
+    <time>10:05:08</time>
+    <contents><target name="magelocal"><dir name="Infinity"><dir name="Ship"><dir name="Block"><file name="Ship.php" hash="2944c702d3c884fe5190fb55e8383df6"/></dir><dir name="Helper"><file name="Data.php" hash="873594d93aa3700f6d0efb45c14f1ec4"/></dir><dir name="Model"><dir name="Carrier"><file name="Infinity.php" hash="2297090b461f27e89853f37d8b32aeea"/></dir></dir><dir name="controllers"><file name="IndexController.php" hash="30f29c7fe43c73cbf03fbde5b49a4b30"/></dir><dir name="etc"><file name="config.xml" hash="4d08382c34ede8f2ce7be32aef8133cc"/><file name="system.xml" hash="0b53b95c50c03d325e30d1c398ec31a4"/></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="Infinity_Ship.xml" hash="321a77df29294bfd4912ad4918b304e6"/></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.1.0</min><max>5.5.9</max></php></required></dependencies>
+</package>
