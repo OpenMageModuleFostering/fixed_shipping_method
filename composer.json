@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/fixed_shipping_method",
+    "name": "openmage-module-fostering\/fixed_shipping_method",
     "type": "magento-module",
-    "license": "Open-Software-License-(OSL)",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Add simple fixed price shipping methods. ",
     "authors": [
