@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/fixed_shipping_method",
+    "name": "OpenMageModuleFostering\/fixed_shipping_method",
     "type": "magento-module",
     "license": "Open-Software-License-(OSL)",
     "homepage": "",
     "description": "Add simple fixed price shipping methods. ",
     "authors": [
-    {
-        "name": "Infinitely",
-        "email": "info@infintelyinfinite.com"
-    }
-],
+        {
+            "name": "Infinitely",
+            "email": "info@infintelyinfinite.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
